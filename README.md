@@ -1,6 +1,3 @@
-# Interactive_interior
- A prototype of an interactive interior configurator.
- 
 Description:
 =========================
 This project is a prototype of an interactive interior configurator based on educational content UE4 Realistic Rendering. Only the daytime map and some meshes with textures and materials remained from the training project.
